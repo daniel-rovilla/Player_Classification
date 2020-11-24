@@ -1,5 +1,5 @@
 # Player_Classification
-Supervised Machine Learning to classify players on the video game FIFA
+Data Exploration and Supervised Machine Learning to classify players on the video game FIFA
 
 
 Can read the story at this medium article:
