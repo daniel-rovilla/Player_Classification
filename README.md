@@ -1,6 +1,3 @@
 # Player_Classification
 Data Exploration and Supervised Machine Learning to classify players on the video game FIFA
-
-
-Can read the story at this medium article:
-https://towardsdatascience.com/fifa-20-player-clustering-f500cf0792c5?sk=92c42dc1ad43bb8ec12a37f94c116e46
+Can read the story at this [medium article](https://towardsdatascience.com/fifa-20-player-clustering-f500cf0792c5?sk=92c42dc1ad43bb8ec12a37f94c116e46)
